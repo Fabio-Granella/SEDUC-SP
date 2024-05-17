@@ -3,8 +3,8 @@ function setup() {
 }
 
 function draw() {
-  background("white");
-  fill("black");
+  background("blue");
+  fill("#FFFFFF");
   textSize(64);
   textAlign(CENTER, CENTER);
   
